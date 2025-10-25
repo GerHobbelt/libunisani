@@ -11,6 +11,8 @@
 
 # libunisani
 
+Sanitizer, sluggifier, normalizer, detoxer for Unicode and ASCII text strings. A customizable unified approach to filtering raw input for text, file names and paths, URL and file 'slugs' and various other outputs that require potential sanitization of your input texts / strings.
+
 TBD
 
 ## Features
