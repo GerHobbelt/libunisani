@@ -28,7 +28,7 @@ TBD
 
 ### Build and run the library, the standalone target, the test suite? Or other developer questions? 
 
-See [DEVELOPER-README.md].
+See [the DEVELOPER-README](./DEVELOPER-README.md).
 
 
 ## FAQ
